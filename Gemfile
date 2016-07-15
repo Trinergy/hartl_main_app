@@ -7,6 +7,8 @@ gem 'rails', '4.2.2'
 #hashing passwords
 gem 'bcrypt', '3.1.11'
 
+gem 'puma'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.0.2'
 # Use Uglifier as compressor for JavaScript assets
